@@ -1,0 +1,9 @@
+﻿development/*/Library
+development/*/Logs
+development/*/Temp
+development/*/*.csproj
+development/*/*.sln
+development/*/UserSettings
+development/*/.idea
+development/*/obj
+poster.webp
