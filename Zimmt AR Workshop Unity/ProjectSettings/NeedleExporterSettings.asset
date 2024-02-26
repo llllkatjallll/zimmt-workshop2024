@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 26665fb87b1e43f0944abcb2688aa8bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  overrideEnterPlaymode: 1
+  overrideEnterPlaymode: 0
   smartExport: 1
   debugMode: 0
   generateReport: 0
