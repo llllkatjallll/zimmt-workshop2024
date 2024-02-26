@@ -21,5 +21,13 @@ MonoBehaviour:
     Projects:
     - ProjectPath: Needle/SampleScene
     BuilderScene: 
+  - Path: Assets/Scenes/AR ZIMMT-Beispiele.unity
+    Projects:
+    - ProjectPath: Needle/SampleScene
+    BuilderScene: 
+  - Path: Assets/Scenes/AR ZIMMT-Test.unity
+    Projects:
+    - ProjectPath: Needle/SampleScene
+    BuilderScene: 
   Projects:
   - ProjectPath: Needle/SampleScene
